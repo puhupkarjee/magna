@@ -1,0 +1,19 @@
+@font-face{
+    font-family:dancing;
+    src: url('../fonts/Dancing_Script/DancingScript-VariableFont_wght.ttf')
+
+}
+@font-face{
+    font-family:lemonada;
+    src: url('../fonts/Lemonada/Lemonada-VariableFont_wght.ttf')
+
+}
+@font-face{
+    font-family:piedra;
+    src: url('../fonts/Piedra/Piedra-Regular.ttf')
+}
+ @font-face{
+        font-family:zilla;
+        src: url('../fonts/Zilla_Slab/ZillaSlab-Regular.ttf')
+
+}
